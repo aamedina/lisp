@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lisp
 
 FIXME: description
@@ -34,3 +35,9 @@ Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+=======
+lisp
+====
+
+lisp playground
+>>>>>>> 134fd7cfde96478769fa708fd13caa3ae9b387a8
