@@ -1,43 +1,9 @@
-<<<<<<< HEAD
 # lisp
-
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar lisp-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+lisp playground
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Adrian Medina
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
-=======
-lisp
-====
-
-lisp playground
->>>>>>> 134fd7cfde96478769fa708fd13caa3ae9b387a8
