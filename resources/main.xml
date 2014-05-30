@@ -1,0 +1,54 @@
+<MODULE_BLOCK NumWords="103" BlockCodeSize="3">
+  <VERSION op0="1"/>
+  <BLOCKINFO_BLOCK/>
+  <TYPE_BLOCK_ID NumWords="14" BlockCodeSize="4">
+    <NUMENTRY op0="11"/>
+    <INTEGER op0="8"/>
+    <ARRAY abbrevid="9" op0="14" op1="0"/>
+    <POINTER abbrevid="4" op0="1" op1="0"/>
+    <INTEGER op0="32"/>
+    <POINTER abbrevid="4" op0="0" op1="0"/>
+    <FUNCTION abbrevid="5" op0="0" op1="3" op2="4"/>
+    <POINTER abbrevid="4" op0="5" op1="0"/>
+    <FUNCTION abbrevid="5" op0="0" op1="3"/>
+    <POINTER abbrevid="4" op0="7" op1="0"/>
+    <INTEGER op0="64"/>
+    <VOID/>
+  </TYPE_BLOCK_ID>
+  <GLOBALVAR abbrevid="4" op0="2" op1="1" op2="4" op3="0" op4="0" op5="0"/>
+  <FUNCTION op0="6" op1="0" op2="1" op3="0" op4="0" op5="0" op6="0" op7="0" op8="0" op9="0" op10="0" op11="0"/>
+  <FUNCTION op0="8" op1="0" op2="0" op3="0" op4="0" op5="0" op6="0" op7="0" op8="0" op9="0" op10="0" op11="0"/>
+  <CONSTANTS_BLOCK NumWords="8" BlockCodeSize="4">
+    <SETTYPE abbrevid="4" op0="1"/>
+    <CSTRING abbrevid="10" op0="72" op1="101" op2="108" op3="108" op4="111" op5="44" op6="32" op7="119" op8="111" op9="114" op10="108" op11="100" op12="33"/>
+  </CONSTANTS_BLOCK>
+  <METADATA_BLOCK NumWords="23" BlockCodeSize="3">
+    <METADATA_KIND op0="0" op1="100" op2="98" op3="103"/>
+    <METADATA_KIND op0="1" op1="116" op2="98" op3="97" op4="97"/>
+    <METADATA_KIND op0="2" op1="112" op2="114" op3="111" op4="102"/>
+    <METADATA_KIND op0="3" op1="102" op2="112" op3="109" op4="97" op5="116" op6="104"/>
+    <METADATA_KIND op0="4" op1="114" op2="97" op3="110" op4="103" op5="101"/>
+    <METADATA_KIND op0="5" op1="116" op2="98" op3="97" op4="97" op5="46" op6="115" op7="116" op8="114" op9="117" op10="99" op11="116"/>
+    <METADATA_KIND op0="6" op1="105" op2="110" op3="118" op4="97" op5="114" op6="105" op7="97" op8="110" op9="116" op10="46" op11="108" op12="111" op13="97" op14="100"/>
+  </METADATA_BLOCK>
+  <VALUE_SYMTAB NumWords="5" BlockCodeSize="4">
+    <ENTRY abbrevid="6" op0="2" op1="109" op2="97" op3="105" op4="110"/>
+    <ENTRY abbrevid="6" op0="0" op1="46" op2="115" op3="116" op4="114"/>
+    <ENTRY abbrevid="6" op0="1" op1="112" op2="117" op3="116" op4="115"/>
+  </VALUE_SYMTAB>
+  <FUNCTION_BLOCK NumWords="13" BlockCodeSize="4">
+    <DECLAREBLOCKS op0="1"/>
+    <CONSTANTS_BLOCK NumWords="2" BlockCodeSize="4">
+      <SETTYPE abbrevid="4" op0="3"/>
+      <NULL/>
+      <SETTYPE abbrevid="4" op0="9"/>
+      <NULL/>
+    </CONSTANTS_BLOCK>
+    <INST_GEP op0="6" op1="1" op2="1"/>
+    <INST_CALL op0="0" op1="0" op2="6" op3="1"/>
+    <INST_RET abbrevid="9" op0="4"/>
+    <VALUE_SYMTAB NumWords="2" BlockCodeSize="4">
+      <ENTRY abbrevid="6" op0="6" op1="115" op2="116" op3="114"/>
+    </VALUE_SYMTAB>
+  </FUNCTION_BLOCK>
+</MODULE_BLOCK>
